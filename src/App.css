@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main__page{
+  width: 100vw;
+  height: 100vh;
+  background-color: #f5f5f5;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.head{
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.head span:nth-child(1){
+  font-family: "Abyssinica SIL", serif;
+}.head span:nth-child(2){
+  font-family: "DejaVu Sans Mono", serif;
+}.head span:nth-child(3){
+  font-family: "TenaliRamakrishna", serif;
+}.head span:nth-child(4){
+  font-family: "Mallanna", serif;
+}.head span:nth-child(6){
+  font-family: "Noto Color Emoji", serif;
+}.head span:nth-child(7){
+  font-family: "Samanata", serif;
+}.head span:nth-child(8){
+  font-family: "Mitra", serif;
+}.head span:nth-child(10){
+  font-family: "Padauk", serif;
+}.head span:nth-child(11){
+  font-family: "Yrsa", serif;
+}.head span:nth-child(12){
+  font-family: "Tlwg Typist", serif;
+}.head span:nth-child(13){
+  font-family: "Vemana2000", serif;
+}.head span:nth-child(14){
+  font-family: "Ani", serif;
+}.head span:nth-child(15){
+  font-family: "Avenir", serif;
+}.head span:nth-child(16){
+  font-family: "Laksaman", serif;
+}
+
+.rules h3 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.rules ul li {
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
+
+.button{
+    padding: .5rem 1.5rem;
+    font-size: 1.2rem;
+    border: 2px solid #000;
+    background-color: #fff;
+    cursor: pointer;
+    margin-top: 2rem;
+    transition: all 0.3s ease;
+}
+
+.timer {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.timer__draw h4, .timer__inspiration h4 {
+  font-size: 1.5rem;
+}
+
+.timer__draw p, .timer__inspiration p {
+  font-size: 1.3rem;
+}
+
+.timer__buttons {
+    display: flex;
+    gap: 1rem;
+}
