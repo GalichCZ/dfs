@@ -107,6 +107,7 @@ function App() {
             <ul>
                 <li>Googling (inspiration) time - 5 minutes</li>
                 <li>Drawing - 10 minutes</li>
+                <li>Switch around your works</li>
                 <li>6 rounds (obviously it's up to you)</li>
                 <li>You don't see each others sheets before switch</li>
             </ul>
