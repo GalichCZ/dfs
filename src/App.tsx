@@ -114,7 +114,7 @@ function App() {
         </div>
 
         <div className='timer'>
-            <audio ref={audioRef} src="/public/end.mp3" />
+            <audio ref={audioRef} src="/end.mp3" />
             <div className='timer__draw'>
                 <h4>Timer Drawing</h4>
                 <p>{formatTime(secondsDrawing)}</p>
