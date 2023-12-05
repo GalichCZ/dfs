@@ -1,3 +1,56 @@
+@font-face {
+    font-family: "Abyssinica SIL";
+    src: url("./assets/fonts/AbyssinicaSIL-Regular.ttf");
+}
+@font-face {
+    font-family: "DejaVu Sans Mono";
+    src: url("./assets/fonts/DejaVuSansMono.ttf");
+}
+@font-face {
+    font-family: "TenaliRamakrishna";
+    src: url("./assets/fonts/TenaliRamakrishna-Regular.ttf");
+}
+@font-face {
+    font-family: "Mallanna";
+    src: url("./assets/fonts/mallanna.ttf");
+}
+@font-face {
+    font-family: "Noto Color Emoji";
+    src: url("./assets/fonts/NotoColorEmoji.ttf");
+}
+@font-face {
+    font-family: "Samanata";
+    src: url("./assets/fonts/samanata.ttf");
+}
+@font-face {
+    font-family: "Mitra";
+    src: url("./assets/fonts/MitraMono.ttf");
+}
+@font-face {
+    font-family: "Padauk";
+    src: url("./assets/fonts/PadaukBook-Regular.ttf");
+}
+@font-face {
+    font-family: "Yrsa";
+    src: url("./assets/fonts/Yrsa-Regular.ttf");
+}
+@font-face {
+    font-family: "Tlwg Typist";
+    src: url("./assets/fonts/TlwgTypist.ttf");
+}
+@font-face {
+    font-family: "Vemana2000";
+    src: url("./assets/fonts/vemana2000.ttf");
+}
+@font-face {
+    font-family: "Ani";
+    src: url("./assets/fonts/Ani.ttf");
+}
+@font-face {
+    font-family: "Laksaman";
+    src: url("./assets/fonts/Laksaman.ttf");
+}
+
 * {
   margin: 0;
   padding: 0;
